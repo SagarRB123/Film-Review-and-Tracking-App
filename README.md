@@ -100,14 +100,68 @@ film-review-tracking-app/
 
 ## Screenshots
 
+### Index
+![Index](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/Index.png?raw=true)
+
+### Login
+![Login](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/Login.png?raw=true)
+
+### Login Error
+![Login Error](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/LoginError.png?raw=true)
+
+### Register
+![Register](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/Register.png?raw=true)
+
+### Registration Complete
+![Registration Complete](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/RegistrationComplete.png?raw=true)
+
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400)
+![Dashboard](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/Dashboard.png?raw=true)
 
-### Add Film Page
-![Add Film](https://via.placeholder.com/800x400)
+### Add New Film
+![Add New Film](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/AddFilm.png?raw=true)
 
-### Review List Page
-![Review List](https://via.placeholder.com/800x400)
+### Added Film
+![Added Film](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/AddedFilm.png?raw=true)
+
+### Film List
+![Film List](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/FilmList.png?raw=true)
+
+### Edit Film
+![Edit Film](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/EditFilm.png?raw=true)
+
+### Delete Film
+![Delete Film](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/DeleteFilm.png?raw=true)
+
+### Deleted Film
+![Deleted Film](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/DeletedFilm.png?raw=true)
+
+### Add New Review
+![Add New Review](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/AddReview.png?raw=true)
+
+### Added Review
+![Added Review](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/AddedReview.png?raw=true)
+
+### Review List
+![Review List](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/ReviewList.png?raw=true)
+
+### Edit Review
+![Edit Review](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/EditReview.png?raw=true)
+
+### Delete Review
+![Deleted Review](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/DeleteReview.png?raw=true)
+
+### Deleted Review
+![Deleted Review](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/DeletedReview.png?raw=true)
+
+### User Profile
+![User Profile](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/UserProfile.png?raw=true)
+
+### Updated User Profile
+![Updated User Profile](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/UpdatedProfile.png?raw=true)
+
+### About Us
+![About Us](https://github.com/SagarRB123/Film-Review-and-Tracking-App/blob/main/AboutUs.png?raw=true)
 
 ## License
 
